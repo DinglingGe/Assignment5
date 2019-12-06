@@ -21,4 +21,6 @@ Users without quick view button need to click directly to see detailed sku infor
 The hypothesis is that this can provide users with more information about deciding whether or not to make a final purchase, thereby reducing the number of situations where there is insufficient information and one more click to enter the details to opt out without buying. The quick view button can significantly increase the conversion rate of the product detail page, improve the user's buying law, and optimize the user experience.<br/>
 <br/>
 (3) Experiment Details<br/>
-The unit of diversion is a cookie. For users that do not enroll, their user-id is not tracked in the experiment, even if they were signed in when they visited the course overview page.
+The unit of diversion is a cookie. For users that do not enroll, their user-id is not tracked in the experiment, even if they were signed in when they visited the course overview page.<br/>
+
+##For details, please see jupyter notebook
