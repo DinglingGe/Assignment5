@@ -9,8 +9,7 @@ choose a metric<br/>
 review statistics<br/>
 design<br/>
 analyse<br/>
-
-1. Description of Experimented Change<br/>
+Description of Experimented Change<br/>
 At the shop list view on wayfair shopping site , it provides two card display modes: one is when there is a quick view button when the mouse is hovered over, and one is not.<br/>
 <br/>
 When users encounter a quick view button, they can click and view the details && specific sku information to customize combinations, providing them with more information whether they enter the next detail page.<br/>
