@@ -9,7 +9,7 @@ choose a metric<br/>
 review statistics<br/>
 design<br/>
 analyse<br/>
-<br/>
+
 1. Description of Experimented Change<br/>
 At the shop list view on wayfair shopping site , it provides two card display modes: one is when there is a quick view button when the mouse is hovered over, and one is not.<br/>
 <br/>
